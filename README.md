@@ -2,6 +2,8 @@
 
 A tiny library to make html node movable.
 
+[Demo](http://htmlpreview.github.io/?https://github.com/LancerComet/moving/blob/master/test/demo.html) is here.
+
 ## Usage.
 
 ### Common.js:
