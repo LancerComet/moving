@@ -123,7 +123,6 @@
 
     if (reference) {
       reference = reference[0]
-      console.log(reference)
       var element = reference.element
       element.removeEventListener('mousedown', reference.dragstart, false)
       element.removeEventListener('mousemove', reference.drag, false)
