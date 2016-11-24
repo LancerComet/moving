@@ -1,0 +1,12 @@
+{
+  "name": "moving",
+  "version": "0.1.0",
+  "description": "A tiny library to make html node movable.",
+  "main": "src/index.js",
+  "keywords": [],
+  "author": {
+    "name": "LancerComet",
+    "email": "chw644@hotmail.com"
+  },
+  "license": "MIT"
+}
