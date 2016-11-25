@@ -42,8 +42,8 @@
       var reference = {}
       
       if (!inited) {
-        element.style.top = position.top + 'px'
-        element.style.left = position.left + 'px'
+        // element.style.top = position.top + 'px'
+        // element.style.left = position.left + 'px'
 
         // Register to registerBook.
         reference = {
