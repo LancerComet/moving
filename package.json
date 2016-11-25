@@ -3,10 +3,14 @@
   "version": "0.1.0",
   "description": "A tiny library to make html node movable.",
   "main": "src/index.js",
-  "keywords": [],
+  "keywords": ["drag", "move"],
   "author": {
     "name": "LancerComet",
     "email": "chw644@hotmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LancerComet/moving.git"
   },
   "license": "MIT"
 }
