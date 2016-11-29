@@ -71,6 +71,10 @@
       element.addEventListener('mousedown', reference.dragstart, false)
       element.addEventListener('mouseup', reference.dragend, false)
       element.addEventListener('mouseleave', reference.mouseLeave, false)
+
+      // Init status.
+      element.style.position = 'fixed'
+      element.style.transform = 'translate(0, 0)'
     }
 
     return element
